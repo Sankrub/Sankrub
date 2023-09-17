@@ -2,6 +2,10 @@
 <h3 align="center">I am a student from Software and Knowledge at Kasetsart University.</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.instagram.com/shann_hsh/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="30" height="30"/>
+</a>
+
 <p align="left">
 </p>
 
