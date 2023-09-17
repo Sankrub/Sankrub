@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navathon Limamapar</h1>
-<h3 align="center">I currently study at Kasetsart University as an software engineering.</h3>
+<h3 align="center">I currently study at Kasetsart University as a software engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankrub&label=Profile%20views&color=0e75b6&style=flat" alt="sankrub" /> </p>
+
+<p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" > </p>
 
 - 🌱 I’m currently learning **Django**
 
