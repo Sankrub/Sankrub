@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navathon Limamapar</h1>
 <h3 align="center">I currently study at Kasetsart University as a software engineering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankrub" alt="sankrub" /></a> </p>
+<p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" > </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankrub" alt="sankrub" /></a> </p>
 
 - 🌱 I’m currently learning **Swift**
