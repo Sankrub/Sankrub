@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" > </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **navathon.l@ku.th**
 
